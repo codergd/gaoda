@@ -1,0 +1,19 @@
+[INFO] [2018-01-19 22:11:54][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2018-01-19 22:11:55][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:11:55 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:11:55][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2018-01-19 22:11:57][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:11:55 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:13:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2018-01-19 22:13:57][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:13:57 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:13:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2018-01-19 22:13:58][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:13:57 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:14:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2018-01-19 22:14:50][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:14:50 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:14:50][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2018-01-19 22:14:52][TestMybatis]{"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+  [INFO] [2018-01-19 22:14:52][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:14:50 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:15:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2018-01-19 22:15:11][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:15:11 CST 2018]; root of context hierarchy
+  [INFO] [2018-01-19 22:15:11][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2018-01-19 22:15:13][TestMybatis]{"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+  [INFO] [2018-01-19 22:15:13][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@56f4468b: startup date [Fri Jan 19 22:15:11 CST 2018]; root of context hierarchy
+  
